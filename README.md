@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m FullStack Engineer focus on
+I’m Educational Practitioner & FullStack Engineer focus on
 
 ```
 HTML           ██████████████████████████▒░░    
