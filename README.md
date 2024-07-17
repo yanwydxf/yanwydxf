@@ -28,7 +28,3 @@ Writing
 
 - [Blog](https://yanwydxf.github.io)
 
-Courses
-
-- [Python 办公自动化](https://www.imooc.com/learn/1239)
-- [腾讯课堂](https://boa.ke.qq.com/)
