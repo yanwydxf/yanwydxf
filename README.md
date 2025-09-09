@@ -24,7 +24,4 @@ Python         █████████████████████�
 C#             ██████████████▒░░░░░░░░░░░░░░   
 ```
 
-Writing
-
-- [Blog](https://yanwydxf.github.io)
 
